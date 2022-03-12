@@ -1,0 +1,16 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "i am making it for practice",
+  "main": "API_crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubham sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.5"
+  }
+}
